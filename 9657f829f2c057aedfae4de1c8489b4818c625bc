@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a9a3307_627a39f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2026-02-15T13:52:59Z",
+      "side": 1,
+      "message": "This origin commit will be some device camera break. I think we can reserve libmegface in hw/xiaomi becasue ParanoidSence is changed this lib\u0027s name",
+      "revId": "9657f829f2c057aedfae4de1c8489b4818c625bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
